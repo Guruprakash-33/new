@@ -22,7 +22,7 @@ const Project =()=>{
         </p>
         <h2 className='text-2xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-green-400 to-blue-500'>Technologies Used</h2>
         <p className='mt-7 mb-5'>Html & CSS , javascript,React JS and Node JS</p>
-        <a href='https://github.com/Guruprakash-33/e-commerce.git'target='_blank' className='text-gray-400 hover:text-white text-2xl'> 
+        <a href='https://github.com/Guruprakash-33/E-Commerce-Website.git'target='_blank' className='text-gray-400 hover:text-white text-2xl'> 
             <FaGithub />
           </a>
       </div>
